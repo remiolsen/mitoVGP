@@ -1,0 +1,15 @@
+name: mitoVGP_pacbio
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - awscli
+  - blasr
+  - pbmm2
+  - bam2fastx
+  - canu
+  - blast
+  - pbbam
+  - picard
+  - genomicconsensus
